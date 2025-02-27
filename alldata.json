@@ -1,0 +1,35 @@
+{
+ "data": [
+  {
+   "id": "101",
+   "name": "shyam",
+   "city": "mehkar",
+   "salary": "60000",
+   "ismarried": "True"
+  },
+  {
+   "id": "102",
+   "name": "omkar",
+   "city": "mehkar",
+   "salary": "50000",
+   "ismarried": "True"
+  },
+  {
+   "id": "103",
+   "name": "rohit",
+   "city": "kolhapur",
+   "salary": "40000",
+   "ismarried": "True"
+  },
+  {
+   "id": "104",
+   "name": "ajinkya",
+   "city": "solapur",
+   "salary": "70000",
+   "ismarried": "True"
+  },
+  {
+   "text_data": "hello this is a text file where there and be any text or paragrach and many more...\nthank you for reading the textfile.\nmay your day be great...\nglad to have you...\n"
+  }
+ ]
+}
